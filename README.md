@@ -1,4 +1,10 @@
-## Olá, Seja bem vindo !
+## Olá, seja bem vindo !
+
+🖥️ Hoje trabalho com front-end <br>
+📚 Estudando: ReactJS / Typescript <br>
+📋 Backlog de estudos: Node.js
+
+##
 
 <div align="center">
   <a href="https://github.com/CaioDalo">
