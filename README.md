@@ -5,14 +5,6 @@
 📋 Backlog de estudos: Node.js
 
 ##
-
-<div align="center">
-  <a href="https://github.com/CaioDalo">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaioDalo&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioDalo&layout=compact&langs_count=7&theme=material-palenight"/>
-   </a>
-</div>
-
 <br>
 
 <div style="display: inline_block">
