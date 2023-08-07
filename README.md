@@ -1,7 +1,7 @@
 ## Olá, seja bem vindo !
 
 🖥️ Hoje trabalho com front-end <br>
-📚 Estudando: ReactJS / Typescript <br>
+📚 Estudando: Angular / ReactJS / Typescript <br>
 📋 Backlog de estudos: Node.js
 
 ##
@@ -25,6 +25,4 @@
   <a href="https://www.linkedin.com/in/caiodalo/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
- 
-  ![Snake animation](https://github.com/CaioDalo/CaioDalo/blob/output/github-contribution-grid-snake.svg)
 </div>
