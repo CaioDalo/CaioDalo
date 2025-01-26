@@ -1,8 +1,8 @@
 ## Olá, seja bem vindo !
 
 🖥️ Hoje trabalho com front-end <br>
-📚 Estudando: Angular / ReactJS / Typescript <br>
-📋 Backlog de estudos: Node.js
+📚 Estudando: Back-end e banco de dados <br>
+📋 Backlog de estudos: Golang
 
 ##
 <br>
